@@ -1,0 +1,34 @@
+body{
+background-color: burlywood;
+color: aliceblue;
+font-family: "Edu AU VIC WA NT Pre", cursive;
+display:flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+margin: 0;
+}
+
+button{
+    background: brown;
+    color: aliceblue;
+    font-family: "Playfair Display", serif;
+}
+
+.passo{
+    display: none;
+}
+
+ .passo.ativo{
+    display: block;
+
+    }
+
+    main{
+        text-align: center;
+        max-width: 90%;
+    }
+
+    img{
+        max-width: 80%;
+    }
